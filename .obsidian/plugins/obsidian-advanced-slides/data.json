@@ -1,7 +1,7 @@
 {
   "port": "3001",
   "autoReload": true,
-  "exportDirectory": "/docs",
+  "exportDirectory": "./..",
   "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,
