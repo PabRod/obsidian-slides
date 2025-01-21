@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Example.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Example"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d01fa3abd17e72b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e513783f2a35f7d6",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -159,13 +175,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a6a3765d2837d547",
+  "active": "4d3b3c16169df223",
   "lastOpenFiles": [
-    "Welcome.md",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
+    "docs/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff",
+    "docs/plugin/chalkboard/img/whiteboard.png",
+    "docs/plugin/chalkboard/img/sponge.png",
+    "docs/plugin/chalkboard/img/chalk-yellow.png",
+    "docs/plugin/chalkboard/img/chalk-white.png",
+    "docs/plugin/chalkboard/img/chalk-red.png",
+    "docs/plugin/chalkboard/img/chalk-purple.png",
+    "docs/plugin/chalkboard/img/chalk-orange.png",
+    "docs/plugin/chalkboard/img/chalk-green.png",
+    "docs/plugin/chalkboard/img/chalk-blue.png",
+    "docs/plugin/chalkboard/img/boardmarker-yellow.png",
+    "docs/plugin/menu/README.md",
+    "docs/plugin/menu/CONTRIBUTING.md",
+    "docs/plugin/customcontrols/README.md",
+    "docs/plugin/chalkboard/README.md",
+    "docs/plugin/chart/README.md",
+    "docs/Example/plugin/chalkboard/README.md",
+    "docs/Example/plugin/chart/README.md",
+    "docs/Example/plugin/customcontrols/README.md",
+    "docs/Example/plugin/menu/CONTRIBUTING.md",
+    "docs/Example/plugin/menu/README.md",
     "README.md",
+    "Example.md",
+    "export/Example/plugin/chalkboard/README.md",
+    "export/Example/plugin/chart/README.md",
+    "export/Example/plugin/customcontrols/README.md",
+    "export/Example/plugin/menu/CONTRIBUTING.md",
+    "export/Example/plugin/menu/README.md",
+    "Welcome.md",
     "Hi.md"
   ]
 }
